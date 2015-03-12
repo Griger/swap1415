@@ -1,21 +1,17 @@
-1. Cuando el número de accesos a nuestro servidor llega a saturarlo podemos solucionarlo teniendo un servidor solamente dedicado a desarrollo:
-
-A) Falso.
-B) Verdadero.
-
-Correcta: A
-
-2. Dentro de los servidores que componen una misma granja web:
+1. Dentro de los servidores que componen una misma granja web:
 
 A) Todos se dedican a lo mismo.
-B) Podemos destrinar cada uno a una tarea distinta.
+B) Podemos destinar cada uno a una tarea distinta.
 C) Se dividen en servidores de producción y de desarrollo, sin otra distinción.
+D) Uno servirá correo y los demás se dedicarán al resto de tareas.
 
 Correcta: B
 
-3. Una de las principales ventajas de una granja web es:
+2. ¿Cuál no es una ventaja de las granjas web?
 
 A) Su facilidad de configuración inicial.
 B) Su alta flexibilidad.
+C) Su escalabilidad.
+D) Su disponibilidad.
 
-Correcta: B
+Correcta: A
