@@ -4,7 +4,7 @@
 
 Hemos creado el siguiente programa para realizar este cálculo
 
-![Captura 1]
+![Captura 1](https://github.com/Griger/swap1415/blob/master/trabajos_clase/Capturas/T2-codigoej1.png)
 
 y vemos que la disponibilidad del sistema será del 99.9976%
 
