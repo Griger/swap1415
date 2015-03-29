@@ -10,7 +10,7 @@ y vemos que la disponibilidad del sistema será del 99.9976%
 
 ##Ejercicio 2:
 
-Otro framework para el desarrollo de aplicaciones web sobre Node.js es [Express](http://expressjs.com/).
+Un framework para el desarrollo de aplicaciones web sobre Node.js es [Express](http://expressjs.com/).
 Aquí tenemos [una lista de otros 10 frameworks](http://codecall.net/2014/02/23/10-best-node-js-mvc-frameworks-for-javascript-developers/) que trabajan sobre Node.js como pueden ser Sails o Koa (también aparece el ya mencionado Express). 
 
 Por otro lado tenemos una librería para trabajar con Node.js centrada en cálculos matemáticos [Math.js](http://mathjs.org/).
